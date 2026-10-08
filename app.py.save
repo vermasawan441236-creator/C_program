@@ -1,0 +1,4 @@
+cd ~/campusAI
+python ~m pip install streamlit
+python ~m stream run app.py
+
